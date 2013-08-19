@@ -1,0 +1,7 @@
+;; cluster:S0 [ score:FS = -32.63348585492063 ] [ score:FT = -33.17109833022618 ] [ score:MS = -32.12022179059203 ] [ score:MT = -32.87652297931801 ]
+reith 1 0 1939 M S U S0
+;; cluster:S3 [ score:FS = -32.371680039965774 ] [ score:FT = -33.15136489015368 ] [ score:MS = -33.35561599964328 ] [ score:MT = -33.96475788218566 ]
+reith 1 1955 681 F S U S3
+reith 1 2636 1905 F S U S3
+reith 1 4541 608 F S U S3
+reith 1 5149 886 F S U S3
